@@ -53,18 +53,18 @@
 }
 
 .header .row .col:nth-child(2) img:nth-child(1) {
-    width: 450px;
-    padding-left: 50px;
+    width: 420px;
+    padding-left: 20px;
     z-index: 2;
 }
 
 .header .row .col:nth-child(2) img:nth-child(2) {
-    width: 480px;
+    width: 460px;
     z-index: 1;
 }
 
 .header .row .col:nth-child(2) img:nth-child(3) {
-    width: 120px;
+    width: 140px;
     z-index: 3;
     top: 60%;
     right: -1%;
