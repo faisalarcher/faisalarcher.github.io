@@ -264,6 +264,7 @@
     bottom: 20px;
     right: 30px;
     cursor: pointer;
+    z-index: 5;
 }
 
 @media screen and (max-width: 1200px) {
