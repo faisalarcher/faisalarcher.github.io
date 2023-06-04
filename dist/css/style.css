@@ -258,6 +258,14 @@
     display: none;
 }
 
+.buttontotop img {
+    width: 50px;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    cursor: pointer;
+}
+
 @media screen and (max-width: 1200px) {
     .header .row .col:nth-child(1) h1 {
         font-size: 45px;
@@ -454,6 +462,10 @@
 
     .copyright p {
         font-size: 12px;
+    }
+
+    .buttontotop img {
+        width: 35px;
     }
 }
 

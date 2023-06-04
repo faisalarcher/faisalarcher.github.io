@@ -8,4 +8,11 @@ function loaderActiveTime() {
     setInterval(loaderActive, 2000);
 }
 
+function scrollkeatas() {
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+    })
+}
+
 window.onload = loaderActiveTime();
