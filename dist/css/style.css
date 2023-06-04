@@ -359,12 +359,12 @@
     }
 
     .about .row .col img:nth-child(1) {
-        width: 300px;
-        height: 280;
+        width: 320px;
+        height: 320px;
     }
 
     .about .row .col img:nth-child(2) {
-        width: 340px;
+        width: 360px;
         height: 300px;
     }
 
@@ -402,12 +402,12 @@
 
     .about .row .col img:nth-child(1) {
         width: 300px;
-        height: 320px;
+        height: 280px;
     }
 
     .about .row .col img:nth-child(2) {
         width: 350px;
-        height: 280px;
+        height: 260px;
     }
 
     .about .row .col h1 {
